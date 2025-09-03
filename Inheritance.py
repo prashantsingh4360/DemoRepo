@@ -17,3 +17,4 @@ class ChildClass(Calculator1):
 
 obj1=ChildClass()
 print(obj1.getDisplay())
+print("New line added")
